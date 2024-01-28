@@ -18,7 +18,7 @@ Mental Health and Wellbeing.
 ## Resources used
 - https://www.canva.com (waves image)
 - https://pixabay.com (calm music)
-- https://www.narakeet.com (AI use of sound effect "open your eyes");
+- https://www.narakeet.com (AI use of sound effect "open your eyes")
   
 
 
