@@ -8,7 +8,7 @@ The app can be seen as a habitual tracker as it allows them to use the to-do lis
 
 ## Important Note
 To use this app this requires the back-end application part of Menti to use the AI suggested feedback. Another important thing to note is that to use the back-end application this requires an OpenAI API key which can be obtained from [OpenAI API](https://platform.openai.com/api-keys).
-The back-end application of Menti can be downloaded from [ put name of Menti_backend repo and link]).
+The back-end application of Menti can be downloaded from (https://github.com/manavkr0710/MENTI_BACKEND)
 
 ## Tools used
 - JavaFX
