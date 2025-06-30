@@ -1,4 +1,4 @@
-### MENTI
+## MENTI (Winner for Best Use of Open Source @ Serenity Hacks)
 
 ## What is Menti
 Menti is a habit tracker app meant to encourage self-care and well-being. This is a desktop JavaFX application. Our app is a multifunctional app with features of habit tracking, sleep tracking, and meditation features.
