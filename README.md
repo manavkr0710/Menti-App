@@ -3,7 +3,7 @@
 ## What is Menti
 Menti is a habit tracker app meant to encourage self-care and well-being. This is a desktop JavaFX application. Our app is a multifunctional app with features of habit tracking, sleep tracking, and meditation features.
 The main highlight of our application is that the habits the user inputs into their list can receive words of encouragement as well as feedback and suggestions from OpenAI's gpt-3.5-turbo language model.
-![start screen](https://github.com/user-attachments/assets/be7f8089-38b1-42e8-915e-a17ca823532f)
+                  ![start screen](https://github.com/user-attachments/assets/be7f8089-38b1-42e8-915e-a17ca823532f)
 
 ## Why use Menti
 
